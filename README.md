@@ -1,10 +1,7 @@
 # React Todo App
 
 This project is a **Todo App** built with **React**.  
-The original task was provided in plain **HTML and CSS**, but I implemented it using React to practice state management, component-based structure, and modern frontend development patterns.
-
-## Live Demo
-[GITHUB PAGE LINK](https://neslihan1999ulug.github.io/React-Sport-Center-Project/)
+The original task was provided in plain **HTML and CSS**, but I implemented it using React.
 
 ## Project Preview
 ![Project Preview](./public/preview.gif)
